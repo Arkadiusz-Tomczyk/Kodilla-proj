@@ -1,4 +1,4 @@
-package index;
+package com.kodilla.exception.index;
 
 import java.util.ArrayList;
 import java.util.List;
