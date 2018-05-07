@@ -1,5 +1,6 @@
 package com.kodilla.testing.shape;
 
+import com.kodilla.testing.shape.*;
 import org.junit.Assert;
 import org.junit.Test;
 

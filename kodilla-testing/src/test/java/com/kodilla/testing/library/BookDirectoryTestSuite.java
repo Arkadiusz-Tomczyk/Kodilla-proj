@@ -1,12 +1,15 @@
 package com.kodilla.testing.library;
 
+import com.kodilla.testing.library.Book;
+import com.kodilla.testing.library.BookLibrary;
+import com.kodilla.testing.library.LibraryDatabase;
+import com.kodilla.testing.library.LibraryUser;
 import org.junit.Test;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import static org.junit.Assert.assertEquals;
-import static org.mockito.Matchers.any;
 import static org.mockito.Matchers.anyString;
 import static org.mockito.Mockito.*;
 

@@ -1,7 +1,5 @@
 package com.kodilla.testing.weather.stub;
 
-import com.kodilla.testing.stub.Temperatures;
-import com.kodilla.testing.stub.WeatherForecast;
 import org.junit.Assert;
 import org.junit.Test;
 
