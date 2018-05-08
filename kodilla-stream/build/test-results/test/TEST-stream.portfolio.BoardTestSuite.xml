@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="stream.portfolio.BoardTestSuite" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-05-08T15:34:06" hostname="DESKTOP-M8OJLM8" time="0.029">
+  <properties/>
+  <testcase name="testAddTaskList" classname="stream.portfolio.BoardTestSuite" time="0.018"/>
+  <testcase name="testtestAddTaskListAverageWorkingOnTask" classname="stream.portfolio.BoardTestSuite" time="0.002"/>
+  <testcase name="testAddTaskListFindUsersTasks" classname="stream.portfolio.BoardTestSuite" time="0.001"/>
+  <testcase name="testAddTaskListFindLongTasks" classname="stream.portfolio.BoardTestSuite" time="0.004"/>
+  <testcase name="testAddTaskListFindOutdatedTasks" classname="stream.portfolio.BoardTestSuite" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

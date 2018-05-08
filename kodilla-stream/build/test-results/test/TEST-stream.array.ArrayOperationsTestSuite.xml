@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="stream.array.ArrayOperationsTestSuite" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-05-08T15:34:06" hostname="DESKTOP-M8OJLM8" time="0.012">
+  <properties/>
+  <testcase name="testGetAverage" classname="stream.array.ArrayOperationsTestSuite" time="0.012"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
